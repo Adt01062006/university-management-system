@@ -1,6 +1,7 @@
 # Campus Hub: University Management System
 
 > A school portal that replaces paper registers and scattered spreadsheets with one simple website.
+> Live Demo:- https://campus-hub-qi6t.onrender.com
 
  **Built by:** Aditi Dubey
 
