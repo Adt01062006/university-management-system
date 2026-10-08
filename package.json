@@ -1,0 +1,10 @@
+{
+  "name": "university-management-system",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "setup": "cd server && npm install && cd ../client && npm install --include=dev && npm run build",
+    "start": "cd server && npm start",
+    "test": "cd server && npm test"
+  }
+}
